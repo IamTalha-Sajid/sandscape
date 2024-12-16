@@ -327,11 +327,11 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  color: #ffffff;
+  color: #edb773;
 }
 
 .handle-preloader .animation-preloader .spinner{
-  border: 3px solid #ffffff;
+  border: 3px solid #edb773;
   border-top-color: rgba(255, 255, 255, 0.5); 
 }
 
@@ -669,7 +669,7 @@ img {
 /** theme-btn-five **/
 
 .theme-btn-five{
-  background: #612ade;
+  background: #edb773;
   padding: 17px 40px;
 }
 
@@ -699,13 +699,13 @@ img {
 
 .theme-btn-six:hover{
   color: #fff !important;
-  border-color: #612ade;
+  border-color: #edb773;
 }
 
 .theme-btn-six:before{
   position: absolute;
   content: '';
-  background: #612ade;
+  background: #edb773;
   width: 0%;
   height: 100%;
   left: 0px;
@@ -1275,7 +1275,7 @@ img {
   padding: 40px 0px;
   font-weight:600;
   opacity:1;
-  color: #141417;
+  color: #fff;
   overflow: hidden;
   z-index:1;
   -webkit-transition:all 500ms ease;
@@ -1951,6 +1951,10 @@ div#mCSB_1_container{
 
 .header-lower .outer-box .logo-box{
   padding: 30px 0px;
+}
+
+.header-lower {
+  background-color:  #17201b;
 }
 
 .header-lower .outer-box .logo-box .logo{

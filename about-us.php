@@ -4,7 +4,7 @@ include 'includes/header.php';
 
 <!-- Page Title -->
 <section class="page-title p_relative centred">
-    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title.jpg);"></div>
+    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/about.png);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1 class="d_block fs_60 lh_70 fw_bold mb_10">About</h1>

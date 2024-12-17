@@ -84,11 +84,11 @@
         <!-- preloader end -->
 
 
-        <!--Search Popup-->
+        <!-- Search Popup
         <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                    <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
                     <div class="close-search pull-right"><span class="icon-179"></span></div>
                 </div>
                 <div class="overlay-layer"></div>
@@ -105,7 +105,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
         <!-- main header -->
@@ -125,9 +125,9 @@
                         </div>
                         <div class="top-right pull-right">
                             <ul class="info clearfix">
-                                <li class="search-box-outer search-toggler p_relative d_iblock float_left mr_60 lh_55">
+                                <!-- <li class="search-box-outer search-toggler p_relative d_iblock float_left mr_60 lh_55">
                                     <i class="icon-1"></i>
-                                </li>
+                                </li> -->
                                 <li class="p_relative d_iblock float_left mr_60 lh_55 pl_25 fs_16">
                                     <i class="icon-2"></i>
                                     <p>Call: <a href="tel:123045615523">+971 55 771 1428</a></p>
@@ -146,7 +146,7 @@
                 <div class="auto-container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
                         </div>
                         <div class="menu-area clearfix">
                             <!--Mobile Navigation Toggler-->
@@ -188,7 +188,7 @@
                 <div class="auto-container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
                         </div>
                         <div class="menu-area clearfix">
                             <nav class="main-menu clearfix">
@@ -210,7 +210,7 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-transparent-logo.png" width="142px" height="80px" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>

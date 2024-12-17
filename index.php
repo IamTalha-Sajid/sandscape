@@ -12,7 +12,7 @@ include 'includes/header.php';
                 <div class="shape-3 p_absolute r_0 b_0 z_1" style="background-image: url(assets/images/shape/shape-4.png);"></div>
                 <div class="shape-4 p_absolute r_0 b_0 z_1" style="background-image: url(assets/images/shape/shape-5.png);"></div>
             </div>
-            <div class="image-layer p_absolute" style="background-image:url(assets/images/banner/banner-1.jpg)"></div>
+            <div class="image-layer p_absolute" style="background-image:url(assets/images/banner/1.png)"></div>
             <div class="auto-container">
                 <div class="content-box p_relative d_block z_5">
                     <h2 class="p_relative d_iblock fw_bold fs_80 lh_70 mb_25"><span class="slider-text-anim">Best Landscape Design</span><br /> <span class="slider-text-anim">Service.</span></h2>
@@ -30,7 +30,7 @@ include 'includes/header.php';
                 <div class="shape-3 p_absolute r_0 b_0 z_1" style="background-image: url(assets/images/shape/shape-4.png);"></div>
                 <div class="shape-4 p_absolute r_0 b_0 z_1" style="background-image: url(assets/images/shape/shape-5.png);"></div>
             </div>
-            <div class="image-layer p_absolute" style="background-image:url(assets/images/banner/banner-2.jpg)"></div>
+            <div class="image-layer p_absolute" style="background-image:url(assets/images/banner/2.png)"></div>
             <div class="auto-container">
                 <div class="content-box p_relative d_block z_5">
                     <h2 class="p_relative d_iblock fw_bold fs_80 lh_70 mb_25"><span class="slider-text-anim">Innovate with Us</span><br /> <span class="slider-text-anim">Creative Solutions.</span></h2>
@@ -48,7 +48,7 @@ include 'includes/header.php';
                 <div class="shape-3 p_absolute r_0 b_0 z_1" style="background-image: url(assets/images/shape/shape-4.png);"></div>
                 <div class="shape-4 p_absolute r_0 b_0 z_1" style="background-image: url(assets/images/shape/shape-5.png);"></div>
             </div>
-            <div class="image-layer p_absolute" style="background-image:url(assets/images/banner/banner-3.jpg)"></div>
+            <div class="image-layer p_absolute" style="background-image:url(assets/images/banner/3.png)"></div>
             <div class="auto-container">
                 <div class="content-box p_relative d_block z_5">
                     <h2 class="p_relative d_iblock fw_bold fs_80 lh_70 mb_25"><span class="slider-text-anim">Empower Your Business</span><br /> <span class="slider-text-anim">With Us.</span></h2>
@@ -139,7 +139,7 @@ include 'includes/header.php';
                                     <div class="col-lg-6 col-md-6 col-sm-12 progress-block">
                                         <div class="single-progress-box">
                                             <div class="box">
-                                                <div class="piechart p_relative mb_5" data-fg-color="#f4244f" data-value=".75">
+                                                <div class="piechart p_relative mb_5" data-fg-color="#627057" data-value=".75">
                                                     <span>.75</span>
                                                 </div>
                                                 <h6 class="d_block fs_15 lh_20 fw_bold mb_0">Landscape Design</h6>
@@ -149,7 +149,7 @@ include 'includes/header.php';
                                     <div class="col-lg-6 col-md-6 col-sm-12 progress-block">
                                         <div class="single-progress-box">
                                             <div class="box">
-                                                <div class="piechart p_relative mb_5" data-fg-color="#f4244f" data-value=".85">
+                                                <div class="piechart p_relative mb_5" data-fg-color="#627057" data-value=".85">
                                                     <span>.85</span>
                                                 </div>
                                                 <h6 class="d_block fs_15 lh_20 fw_bold mb_0">Sustainability</h6>

@@ -67,7 +67,8 @@
   height: 100%;
   top: 0px;
   right: 0px;
-  background: red;
+  opacity: 0.7;
+  background: #627057;
   mix-blend-mode: multiply;
   z-index: 1;
 }
@@ -79,8 +80,8 @@
   height: 100%;
   top: 0px;
   right: 0px;
-  background: #000000;
-  opacity: 0.6;
+  background: #627057;
+  opacity: 0.7;
 }
 
 .banner-carousel .slide-item .image-layer{
@@ -108,7 +109,7 @@
 }
 
 .banner-carousel .content-box h2{
-  color: #fff;
+  color: #edb773;
   opacity: 0;
   -webkit-transition: all 1000ms ease;
   -moz-transition: all 1000ms ease;
@@ -11080,7 +11081,7 @@ div[class^="bubble-"] {
 .page-title:before{
   position: absolute;
   content: '';
-  background: #000;
+  background: #627057;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -11681,7 +11682,7 @@ div[class^="bubble-"] {
 .feature-block-eight .inner-box:before{
   position: absolute;
   content: '';
-  background: #141417;
+  background: #627057;
   width: 100%;
   height: 0%;
   left: 0px;
@@ -15663,7 +15664,7 @@ div[class^="bubble-"] {
   position: absolute;
   top: 0;
   left: 100%;
-  background: #fff;
+  background: #edb773;
   -webkit-transition: 1s cubic-bezier(.858, .01, .068, .99);
   -o-transition: 1s cubic-bezier(.858, .01, .068, .99);
   transition: 1s cubic-bezier(.858, .01, .068, .99);

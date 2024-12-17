@@ -4,14 +4,14 @@ include 'includes/header.php';
 
 <!-- Page Title -->
 <section class="page-title p_relative centred">
-    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title.jpg);"></div>
+    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/about.png);"></div>
     <div class="auto-container">
         <div class="content-box">
-            <h1 class="d_block fs_60 lh_70 fw_bold mb_10">Service Style 1</h1>
+            <h1 class="d_block fs_60 lh_70 fw_bold mb_10">About Us</h1>
             <ul class="bread-crumb p_relative d_block mb_8 clearfix">
                 <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20"><a href="index.html">Home</a></li>
                 <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20">Pages</li>
-                <li class="current p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter">Service Style 1</li>
+                <li class="current p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter">About Us</li>
             </ul>
         </div>
     </div>

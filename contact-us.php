@@ -7,12 +7,12 @@ include 'includes/header.php';
     <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
-            <h1 class="d_block fs_60 lh_70 fw_bold mb_10">Service Style 1</h1>
-            <ul class="bread-crumb p_relative d_block mb_8 clearfix">
+            <h1 class="d_block fs_60 lh_70 fw_bold mb_10">Contact Us</h1>
+            <!-- <ul class="bread-crumb p_relative d_block mb_8 clearfix">
                 <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20"><a href="index.html">Home</a></li>
                 <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20">Pages</li>
                 <li class="current p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter">Service Style 1</li>
-            </ul>
+            </ul> -->
         </div>
     </div>
 </section>
@@ -55,21 +55,21 @@ include 'includes/header.php';
                                 <div class="icon p_relative d_iblock"><i class="icon-180"></i></div>
                                 <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-133.png" alt=""></div>
                             </div>
-                            <p class="font_family_inter color_black">629 12th St, Modesto, CA 95354 United States</p>
+                            <p class="font_family_inter color_black">United Arab Emirates</p>
                         </li>
                         <li class="p_relative d_block pl_45 mb_80">
                             <div class="icon-box p_absolute l_0 t_0 d_iblock fs_30 z_1 tran_5">
                                 <div class="icon p_relative d_iblock"><i class="icon-181"></i></div>
                                 <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-134.png" alt=""></div>
                             </div>
-                            <p class="font_family_inter color_black"><a href="mailto:example@gmail.com">example@gmail.com</a></p>
+                            <p class="font_family_inter color_black"><a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></p>
                         </li>
                         <li class="p_relative d_block pl_45 mb_30">
                             <div class="icon-box p_absolute l_0 t_0 d_iblock fs_30 z_1 tran_5">
                                 <div class="icon p_relative d_iblock"><i class="icon-182"></i></div>
                                 <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-135.png" alt=""></div>
                             </div>
-                            <p class="font_family_inter color_black"><a href="tel:11165458856">+(111)65-458-856</a></p>
+                            <p class="font_family_inter color_black"><a href="tel:971 55 771 1428">+(971) 55 771 1428</a></p>
                         </li>
                     </ul>
                 </div>
@@ -104,7 +104,7 @@ include 'includes/header.php';
     </div>
 </section>
 <!-- contact-seven end -->
-
+ 
 <?php
 include 'includes/footer.php';
 ?>

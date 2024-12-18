@@ -19,26 +19,28 @@ include 'includes/header.php';
 <!-- End Page Title -->
 
 <!-- header-one -->
-<section class="testimonial-one p_relative pt_140 pb_100 testimonial-page-3">
+<section class="testimonial-one p_relative pt_140  testimonial-page-3">
     <div class="auto-container">
         <div data-animation-box class="upper-box p_relative d_block mb_60">
-            <div class="row clearfix">
-                <div class="col-lg-6 col-md-12 col-sm-12 title-column">
+            <div class="clearfix">
+                <div class="col-lg-12 col-md-12 col-sm-12 title-column centred">
                     <div class="sec-title-three p_relative d_block mr_100">
-                        <h6 class="d_block fs_16 lh_26 fw_bold font_family_oxygen mb_12">Improve Your Landscape Knowledge</h6>
-                        <h2 class="d_block fs_40 fw_bold font_family_oxygen">Sandscape: Leading Outdoor Maintenance Provider</h2>
+                        <h1 class="d_block fs_40 fw_bold font_family_oxygen">What Is Landscape Design</h1>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 text-column">
-                    <div class="text p_relative d_block ml_30 mt_40">
-                        <p class="fs_18 font_family_oxygen lh_28">Sandscape is one of the leading outdoor maintenance providers with more than 150 served gardens and 93.83% positive feedback according to our internal rating system.</p>
+                <div class="col-lg-12 col-md-12 col-sm-12 text-column centred">
+                    <div class="text p_relative d_block ml_100 mr_100 mt_40">
+                        <p class="fs_18 font_family_oxygen lh_28">Landscape design is the process of planning and creating outdoor spaces that are both functional and aesthetically pleasing. It involves arranging elements such as
+                            plants, trees, shrubs, pathways, patios, lighting, and other hardscape features (like walls and fences) to enhance the beauty, usability, and sustainability of a space.
+                            Landscape design takes into account the site's environment, climate, and the client’s preferences to create a balanced, harmonious outdoor area. The goal is to
+                            transform an outdoor space into a cohesive, visually appealing, and practical environment that meets the needs of the people who use it.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- header-one --> 
+<!-- header-one -->
 
 <!-- ourmission-section -->
 <section class="ourmission-section about-page-1 p_relative pb_150 pt_100">
@@ -87,17 +89,12 @@ include 'includes/header.php';
         <div data-depth="0.30" class="shape-5 p_absolute w_95 h_95" style="background-image: url(assets/images/shape/shape-57.png);"></div>
     </div>
     <div class="auto-container">
-        <div data-animation-box class="upper-box p_relative d_block mb_60">
-            <div class="row clearfix">
-                <div class="col-lg-6 col-md-12 col-sm-12 title-column">
+    <div data-animation-box class="upper-box p_relative d_block mb_60">
+            <div class="clearfix">
+                <div class="col-lg-12 col-md-12 col-sm-12 title-column centred">
                     <div class="sec-title-three p_relative d_block mr_100">
-                        <h6 class="d_block fs_16 lh_26 fw_bold font_family_oxygen mb_12">About Us</h6>
-                        <h2 class="d_block fs_40 fw_bold font_family_oxygen">The Best Solutions for Best Business</h2>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 text-column">
-                    <div class="text p_relative d_block ml_30 mt_40">
-                        <p class="fs_18 font_family_oxygen lh_28">We are dedicated to providing top-notch landscape design services that cater to the unique needs of each client. Our team of experts ensures that every project is executed with precision and creativity, transforming outdoor spaces into stunning environments.</p>
+                        <h1 class="d_block fs_40 fw_bold font_family_oxygen">Our Landscaping Work
+                        And Services</h1>
                     </div>
                 </div>
             </div>
@@ -107,7 +104,7 @@ include 'includes/header.php';
                 <div class="feature-block-three wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block b_radius_10 b_shadow_6 pl_40 pt_40 pr_30 pb_35">
                         <div class="icon-box p_relative d_iblock w_80 h_80 lh_85 fs_45 centred b_radius_50 mb_20"><i class="icon-6"></i></div>
-                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Quick Innovative <br />Solutions</h4>
+                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Landscape Design</h4>
                         <p class="font_family_oxygen tran_5">Our innovative solutions are designed to meet the dynamic needs of modern landscapes.</p>
                     </div>
                 </div>
@@ -116,7 +113,7 @@ include 'includes/header.php';
                 <div class="feature-block-three wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block b_radius_10 b_shadow_6 pl_40 pt_40 pr_30 pb_35">
                         <div class="icon-box p_relative d_iblock w_80 h_80 lh_85 fs_45 centred b_radius_50 mb_20"><i class="icon-7"></i></div>
-                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Super Flexible <br />Pricing</h4>
+                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Plant Selection</h4>
                         <p class="font_family_oxygen tran_5">We offer flexible pricing options to accommodate various budgets without compromising on quality.</p>
                     </div>
                 </div>
@@ -125,7 +122,36 @@ include 'includes/header.php';
                 <div class="feature-block-three wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block b_radius_10 b_shadow_6 pl_40 pt_40 pr_30 pb_35">
                         <div class="icon-box p_relative d_iblock w_80 h_80 lh_85 fs_45 centred b_radius_50 mb_20"><i class="icon-8"></i></div>
-                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Fast & Flexible <br />Support</h4>
+                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Free Consultations</h4>
+                        <p class="font_family_oxygen tran_5">Our support team is always ready to assist you with any queries or concerns, ensuring a seamless experience.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row clearfix mt_60">
+            <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
+                <div class="feature-block-three wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block b_radius_10 b_shadow_6 pl_40 pt_40 pr_30 pb_35">
+                        <div class="icon-box p_relative d_iblock w_80 h_80 lh_85 fs_45 centred b_radius_50 mb_20"><i class="icon-6"></i></div>
+                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Garden Design</h4>
+                        <p class="font_family_oxygen tran_5">Our innovative solutions are designed to meet the dynamic needs of modern landscapes.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
+                <div class="feature-block-three wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block b_radius_10 b_shadow_6 pl_40 pt_40 pr_30 pb_35">
+                        <div class="icon-box p_relative d_iblock w_80 h_80 lh_85 fs_45 centred b_radius_50 mb_20"><i class="icon-7"></i></div>
+                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Water Features</h4>
+                        <p class="font_family_oxygen tran_5">We offer flexible pricing options to accommodate various budgets without compromising on quality.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
+                <div class="feature-block-three wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block b_radius_10 b_shadow_6 pl_40 pt_40 pr_30 pb_35">
+                        <div class="icon-box p_relative d_iblock w_80 h_80 lh_85 fs_45 centred b_radius_50 mb_20"><i class="icon-8"></i></div>
+                        <h4 class="d_block fs_20 lh_30 fw_bold font_family_oxygen mb_15 tran_5">Irrigation Systems</h4>
                         <p class="font_family_oxygen tran_5">Our support team is always ready to assist you with any queries or concerns, ensuring a seamless experience.</p>
                     </div>
                 </div>
@@ -145,9 +171,10 @@ include 'includes/header.php';
     </div>
     <div class="auto-container">
         <div class="sec-title p_relative d_block mb_60">
-            <span class="sub-title p_relative d_iblock fs_15 fw_medium g_color mb_19">Process</span>
-            <h2 class="p_relative d_block fs_40 fw_bold mb_30">Always Work Done by The <br />Following Process</h2>
-            <p>Our approach ensures quality and efficiency in every project we undertake. Follow our streamlined process for optimal results.</p>
+            <!-- <span class="sub-title p_relative d_iblock fs_15 fw_medium g_color mb_19">Process</span> -->
+            <h2 class="p_relative d_block fs_40 fw_bold mb_30">Designing Your Dream in
+            Three Simple Steps</h2>
+            <!-- <p>Our approach ensures quality and efficiency in every project we undertake. Follow our streamlined process for optimal results.</p> -->
         </div>
         <div class="row clearfix">
             <div class="col-lg-4 col-md-6 col-sm-12 processing-block">
@@ -159,8 +186,8 @@ include 'includes/header.php';
                             <div class="overlay-icon p_absolute l_0 t_0 r_0 w_70 h_70 lh_70 centred fs_25 tran_5"><i class="icon-16"></i></div>
                         </div>
                         <div class="text">
-                            <h4 class="d_block fs_20 fw_sbold lh_30 mb_16">Make Schedule</h4>
-                            <p class="font_family_poppins">We begin by scheduling a consultation to understand your vision and requirements for the project.</p>
+                            <h4 class="d_block fs_20 fw_sbold lh_30 mb_16">Start Project</h4>
+                            <p class="font_family_poppins">Lorem ipsum dolor sit elit consectetur sed eiusmod tempor labore.</p>
                         </div>
                     </div>
                 </div>
@@ -174,8 +201,8 @@ include 'includes/header.php';
                             <div class="overlay-icon p_absolute l_0 t_0 r_0 w_70 h_70 lh_70 centred fs_25 tran_5"><i class="icon-16"></i></div>
                         </div>
                         <div class="text">
-                            <h4 class="d_block fs_20 fw_sbold lh_30 mb_16">Start Discussion</h4>
-                            <p class="font_family_poppins">Our team collaborates with you to discuss design options, materials, and timelines to ensure alignment.</p>
+                            <h4 class="d_block fs_20 fw_sbold lh_30 mb_16">Design</h4>
+                            <p class="font_family_poppins">Lorem ipsum dolor sit elit consectetur sed eiusmod tempor labore.</p>
                         </div>
                     </div>
                 </div>
@@ -188,8 +215,8 @@ include 'includes/header.php';
                             <div class="overlay-icon p_absolute l_0 t_0 r_0 w_70 h_70 lh_70 centred fs_25 tran_5"><i class="icon-16"></i></div>
                         </div>
                         <div class="text">
-                            <h4 class="d_block fs_20 fw_sbold lh_30 mb_16">Enjoy Plan</h4>
-                            <p class="font_family_poppins">Once the plan is finalized, we execute the project with precision, ensuring you enjoy the final outcome.</p>
+                            <h4 class="d_block fs_20 fw_sbold lh_30 mb_16">Execute</h4>
+                            <p class="font_family_poppins">Lorem ipsum dolor sit elit consectetur sed eiusmod tempor labore.</p>
                         </div>
                     </div>
                 </div>

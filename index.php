@@ -18,7 +18,7 @@ include 'includes/header.php';
                     <h2 class="p_relative d_iblock fw_bold fs_80 lh_70 mb_25"><span class="slider-text-anim">Best Landscape Design</span><br /> <span class="slider-text-anim">Service.</span></h2>
                     <p class="d_block fs_18 mb_45">Transforming outdoor spaces with innovative designs and sustainable practices. <br />Experience the beauty of nature with our expert landscaping services.</p>
                     <div class="btn-box clearfix">
-                        <a href="index.html" class="theme-btn theme-btn-two"><span data-text="Get Started">Get Appointment</span></a>
+                        <a href="contact-us.php" class="theme-btn theme-btn-two"><span data-text="Get Appointment">Get Appointment</span></a>
                     </div>
                 </div>
             </div>
@@ -36,7 +36,7 @@ include 'includes/header.php';
                     <h2 class="p_relative d_iblock fw_bold fs_80 lh_70 mb_25"><span class="slider-text-anim">Innovate with Us</span><br /> <span class="slider-text-anim">Creative Solutions.</span></h2>
                     <p class="d_block fs_18 mb_45">Discover new horizons with our innovative approaches and creative solutions.</p>
                     <div class="btn-box clearfix">
-                        <a href="index.html" class="theme-btn theme-btn-two"><span data-text="Learn More">Learn More</span></a>
+                        <a href="about-us.php" class="theme-btn theme-btn-two"><span data-text="Learn More">Learn More</span></a>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@ include 'includes/header.php';
                     <h2 class="p_relative d_iblock fw_bold fs_80 lh_70 mb_25"><span class="slider-text-anim">Empower Your Business</span><br /> <span class="slider-text-anim">With Us.</span></h2>
                     <p class="d_block fs_18 mb_45">Join us to empower your business with cutting-edge technology and expertise.</p>
                     <div class="btn-box clearfix">
-                        <a href="index.html" class="theme-btn theme-btn-two"><span data-text="Join Now">Join Now</span></a>
+                        <a href="contact-us.php" class="theme-btn theme-btn-two"><span data-text="Contact Now">Contact Now</span></a>
                     </div>
                 </div>
             </div>
@@ -214,10 +214,10 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-6.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="service-details.html">Landscape Design</a></h4>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="services.php">Landscape Design</a></h4>
                         <p class="p_relative d_block mb_20">Custom landscape designs, site analysis, and 3D visualizations.</p>
                         <div class="link">
-                            <a href="service-details.html" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
+                            <a href="services.php" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -230,10 +230,10 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-7.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="service-details.html">Hardscaping</a></h4>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="services.php">Hardscaping</a></h4>
                         <p class="p_relative d_block mb_20">Design of patios, walkways, and outdoor kitchens.</p>
                         <div class="link">
-                            <a href="service-details.html" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
+                            <a href="services.php" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -246,10 +246,10 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-8.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="service-details.html">Softscaping</a></h4>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="services.php">Softscaping</a></h4>
                         <p class="p_relative d_block mb_20">Plant selection, garden beds, and xeriscaping.</p>
                         <div class="link">
-                            <a href="service-details.html" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
+                            <a href="services.php" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -264,10 +264,10 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-9.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="service-details.html">Lighting Design</a></h4>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="services.php">Lighting Design</a></h4>
                         <p class="p_relative d_block mb_20">Landscape lighting, LED path lights, and seasonal lighting.</p>
                         <div class="link">
-                            <a href="service-details.html" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
+                            <a href="services.php" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -280,10 +280,10 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-11.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="service-details.html">Sustainable Landscaping</a></h4>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="services.php">Sustainable Landscaping</a></h4>
                         <p class="p_relative d_block mb_20">Eco-friendly solutions, rainwater harvesting, and green roofs.</p>
                         <div class="link">
-                            <a href="service-details.html" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
+                            <a href="services.php" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -296,10 +296,10 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-12.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="service-details.html">Commercial Landscaping</a></h4>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_20"><a href="services.php">Commercial Landscaping</a></h4>
                         <p class="p_relative d_block mb_20">Landscaping for commercial properties and public spaces.</p>
                         <div class="link">
-                            <a href="service-details.html" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
+                            <a href="services.php" class="p_relative d_iblock fs_15 lh_25 fw_sbold">Learn more<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -962,7 +962,7 @@ include 'includes/header.php';
         <div class="inner-box p_relative z_1">
             <h2 class="d_block fs_40 fw_bold mb_20">Transform Your Outdoor Spaces with Our Expertise</h2>
             <p class="fs_17 mb_35">Discover innovative landscape designs and sustainable solutions tailored to your needs. Let us help you create a stunning outdoor environment that enhances your lifestyle.</p>
-            <a href="index.html" class="theme-btn theme-btn-two wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms"><span data-text="Get Started">Get Started</span></a>
+            <a href="contact-us.php" class="theme-btn theme-btn-two wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms"><span data-text="Contact Now">Contact Now</span></a>
         </div>
     </div>
 </section>

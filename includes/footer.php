@@ -10,7 +10,7 @@
         <div class="auto-container">
             <div class="top-inner clearfix">
                 <figure class="footer-logo pull-left">
-                    <a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a>
+                    <a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a>
                 </figure>
                 <ul class="social-links pull-right clearfix">
                     <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
@@ -27,19 +27,19 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                     <div class="footer-widget about-widget wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="widget-title">
-                            <h4>About</h4>
+                            <h4>Sandscape Architects</h4>
                         </div>
                         <div class="text">
-                            <p>Lorem ipsum dolor amet consecto adi pisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim ad minim.</p>
+                            <p>Where your dream garden becomes reality. We design outdoor havens that blend beauty and sustainability, transforming your space into a breathtaking escape.</p>
                         </div>
-                        <div class="subscribe-inner">
+                        <!-- <div class="subscribe-inner">
                             <form action="contact.html" method="post" class="subscribe-form">
                                 <div class="form-group">
                                     <input type="email" name="email" placeholder="Your email address" readonly="">
                                     <button type="submit"><i class="icon-4"></i></button>
                                 </div>
                             </form>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
@@ -49,12 +49,10 @@
                         </div>
                         <div class="widget-content">
                             <ul class="links-list clearfix">
-                                <li><a href="index.html">About</a></li>
-                                <li><a href="index.html">Services</a></li>
-                                <li><a href="index.html">Job</a></li>
-                                <li><a href="index.html">opportunities</a></li>
-                                <li><a href="index.html">Location</a></li>
-                                <li><a href="index.html">Article</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about-us.php">About Us</a></li>
+                                <li><a href="careers.php">Careers</a></li>
+                                <li><a href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -66,12 +64,10 @@
                         </div>
                         <div class="widget-content">
                             <ul class="links-list clearfix">
-                                <li><a href="index.html">About</a></li>
-                                <li><a href="index.html">Services</a></li>
-                                <li><a href="index.html">Job</a></li>
-                                <li><a href="index.html">opportunities</a></li>
-                                <li><a href="index.html">Location</a></li>
-                                <li><a href="index.html">Article</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
+                                <li><a href="landscape-design.php">Landscape Design</a></li>
+                                <li><a href="swimming-pool.php">Swimming Pool</a></li>
                             </ul>
                         </div>
                     </div>
@@ -83,9 +79,9 @@
                         </div>
                         <div class="widget-content">
                             <ul class="info-list clearfix">
-                                <li>Flat 20, Reynolds Neck, North Helenaville, FV77 8WS</li>
-                                <li><a href="tel:23055873407">+2(305) 587-3407</a></li>
-                                <li><a href="mailto:sample@example.com">sample@example.com</a></li>
+                                <li>United Arab Emirates</li>
+                                <li><a href="tel:+(971) 55 771 1428">+(971) 55 771 1428</a></li>
+                                <li><a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></li>
                             </ul>
                         </div>
                     </div>
@@ -97,7 +93,7 @@
         <div class="auto-container">
             <div class="bottom-inner clearfix">
                 <div class="copyright pull-left">
-                    <p><a href="index.html">ATRIX</a> &copy; 2021 All Right Reserved</p>
+                    <p><a href="index.html">Sandscape Architects</a> &copy; <?php echo date("Y"); ?> All Rights Reserved</p>
                 </div>
                 <ul class="footer-nav clearfix pull-right">
                     <li><a href="index.html">Terms of Service</a></li>

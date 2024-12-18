@@ -902,7 +902,8 @@
   height: 100%;
   top: 0px;
   right: 0px;
-  background: red;
+  background: #627057;
+  opacity: 0.7;
   mix-blend-mode: multiply;
   z-index: 1;
 }
@@ -1638,7 +1639,7 @@
   height: 100%;
   top: 0px;
   right: 0px;
-  background: red;
+  background: #627057;
   mix-blend-mode: multiply;
   z-index: 1;
 }

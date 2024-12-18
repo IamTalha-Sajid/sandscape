@@ -391,7 +391,7 @@ include 'includes/header.php';
                     <div class="image_block_two">
                         <div data-animation-box class="image-box p_relative d_block ml_30 pb_140 mt_20">
                             <div class="shape parallax-scene parallax-scene-3">
-                                <div data-depth="0.40" class="shape-1 p_absolute w_150 h_150 z_2" style="background-image: url(assets/images/shape/shape-17.png);"></div>
+                                <!-- <div data-depth="0.40" class="shape-1 p_absolute w_150 h_150 z_2" style="background-image: url(assets/images/shape/shape-17.png);"></div> -->
                                 <div data-depth="0.50" class="shape-2 p_absolute w_95 h_95" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                                 <div data-depth="0.30" class="shape-3 p_absolute w_95 h_95" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                             </div>

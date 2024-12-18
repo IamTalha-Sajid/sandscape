@@ -57,7 +57,7 @@ include 'includes/header.php';
                             <div class="icon p_relative d_iblock fs_50 tran_5 z_1"><i class="icon-119"></i></div>
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-110.png" alt=""></div>
                         </div>
-                        <div class="text">
+                        <div class="text">Frequently Asked Questions
                             <h4 class="d_block fs_20 lh_30 fw_sbold mb_18">Client-Centricity</h4>
                             <p class="font_family_poppins">Our client’s visions and satisfaction are at the heart of everything we do, ensuring personalized and meaningful designs.</p>
                         </div>
@@ -287,9 +287,9 @@ include 'includes/header.php';
 <!-- faq-page-section -->
 <section class="faq-page-section faq-page-2 p_relative pt_140 pb_150">
     <div class="auto-container">
-        <div class="sec-title-six p_relative d_block mb_50">
-            <h4 class="p_relative d_block fs_17 uppercase lh_30 fw_sbold mb_15" data-animation="overlay-animation">Team Member</h4>
-            <h2 class="d_block fs_40 lh_52 fw_bold">Our Staff Comes from Many <br />Different Disciplines</h2>
+        <div class="sec-title-six p_relative d_block mb_50" style="text-align: center;">
+            <!-- <h4 class="p_relative d_block fs_17 uppercase lh_30 fw_sbold mb_15" data-animation="overlay-animation">Frequently Asked Questions</h4> -->
+            <h2 class="d_block fs_40 lh_52 fw_bold">Frequently Asked Questions</h2>
         </div>
         <div class="row clearfix">
             <div class="col-lg-12 col-md-12 col-sm-12 content-side">

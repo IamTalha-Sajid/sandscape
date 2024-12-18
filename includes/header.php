@@ -130,7 +130,7 @@
                                 </li> -->
                                 <li class="p_relative d_iblock float_left mr_60 lh_55 pl_25 fs_16">
                                     <i class="icon-2"></i>
-                                    <p>Call: <a href="tel:123045615523">+971 55 771 1428</a></p>
+                                    <p>Call: <a href="tel:+(971) 55 771 1428">+(971) 55 771 1428</a></p>
                                 </li>
                                 <li class="p_relative d_iblock float_left lh_55 pl_25 fs_16">
                                     <i class="icon-3"></i>

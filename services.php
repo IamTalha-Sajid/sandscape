@@ -167,8 +167,11 @@ include 'includes/header.php';
 <!-- service-19 -->
 <section class="service-19 p_relative pb_150">
     <div class="tabs-box">
-        <div class="tab-btn-box p_relative d_block mb_150">
-            <div class="auto-container">
+        <div class="p_relative d_block mb_150">
+        <div class="sec-title-six p_relative d_block mb_50" style="text-align: center;">
+            <h2 class="d_block fs_40 lh_52 fw_bold">How We Work</h2>
+        </div>
+            <!-- <div class="auto-container">
                 <ul class="tab-btns tab-buttons clearfix">
                     <li class="tab-btn active-btn" data-tab="#tab-1">
                         <div class="icon-box p_absolute fs_30 color_black tran_5 t_25 l_50"><i class="icon-11"></i></div>
@@ -187,7 +190,7 @@ include 'includes/header.php';
                         <h6 class="fs_16 tran_5">Advanced Reporting</h6>
                     </li>
                 </ul>
-            </div>
+            </div> -->
         </div>
         <div class="auto-container">
             <div class="tabs-content">

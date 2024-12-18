@@ -32,7 +32,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Landscape Design & Planning</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Custom landscape designs tailored to client needs and preferences. Site analysis and conceptual designs. 3D visualizations and renderings for project presentations.</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Custom landscape designs tailored to client needs. Site analysis, conceptual designs, and 3D visualizations for presentations.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -49,7 +49,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Hardscaping</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Design of patios, walkways, retaining walls and driveways. Outdoor kitchens, fire pits and seating areas. Decks, pergolas, and other structures. Stone, brick, and concrete work for outdoor spaces.</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Design of patios, walkways, and driveways. Outdoor kitchens, fire pits, and seating areas. Stone, brick, and concrete work.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -66,7 +66,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Softscaping</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Plant selection and installation (trees, shrubs, flowers, grass). Garden beds, lawn care, and turf management. Xeriscaping (low-water-use landscaping).</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Plant selection and installation. Garden beds, lawn care, and turf management. Xeriscaping for low-water-use landscaping.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -83,7 +83,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Lighting Design</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Landscape lighting design for outdoor spaces. Design of LED lighting, path lights and accent lighting. Seasonal lighting for events or holidays.</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Landscape lighting design for outdoor spaces. LED lighting, path lights, and accent lighting. Seasonal lighting for events.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -100,7 +100,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Water Features</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Design of fountains, ponds, waterfalls and streams. Upgradation for existing water features. Pool and spa landscaping.</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Design of fountains, ponds, and waterfalls. Upgrades for existing water features. Pool and spa landscaping services.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -117,7 +117,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Sustainable Landscaping</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Eco-friendly and low-maintenance landscaping solutions. Rainwater harvesting and water-efficient design. Green roofs, vertical gardens and urban farming design.</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Eco-friendly and low-maintenance solutions. Rainwater harvesting, water-efficient design, and urban farming concepts.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -134,7 +134,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Commercial Landscaping</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Landscaping for commercial properties including offices, retail spaces and industrial parks. Outdoor space planning for public areas, parks and playgrounds. Seasonal displays and event setups.</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Landscaping for commercial properties. Outdoor space planning for public areas, parks, and playgrounds. Event setups.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -151,7 +151,7 @@ include 'includes/header.php';
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Landscape Renovation & Restoration</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Revamping outdated or underused landscapes. Restoring and maintaining historical gardens or features. Updating designs to modern styles or sustainability standards.</p>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Revamping outdated landscapes. Restoring historical gardens. Updating designs to modern styles or sustainability standards.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>

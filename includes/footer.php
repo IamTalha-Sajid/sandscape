@@ -93,7 +93,7 @@
         <div class="auto-container">
             <div class="bottom-inner clearfix">
                 <div class="copyright pull-left">
-                    <p><a href="index.html">Sandscape Architects</a> &copy; <?php echo date("Y"); ?> All Rights Reserved</p>
+                    <p><a href="index.html">Sandscape Architects</a> &copy; <span id="year"></span> All Rights Reserved</p>
                 </div>
                 <ul class="footer-nav clearfix pull-right">
                     <li>Develop By</li>
@@ -142,6 +142,12 @@
 
 <!-- main-js -->
 <script src="assets/js/script.js"></script>
+<script>
+const d = new Date();
+const year = d.getFullYear();
+
+document.getElementById("year").innerHTML = year;
+</script>
 
 </body><!-- End of .page_wrapper -->
 

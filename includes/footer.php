@@ -96,8 +96,8 @@
                     <p><a href="index.html">Sandscape Architects</a> &copy; <?php echo date("Y"); ?> All Rights Reserved</p>
                 </div>
                 <ul class="footer-nav clearfix pull-right">
-                    <li><a href="index.html">Terms of Service</a></li>
-                    <li><a href="index.html">Privacy Policy</a></li>
+                    <li>Develop By</li>
+                    <li><a href="https://byteliftsolutions.com/">Bytelift Solutions</a></li>
                 </ul>
             </div>
         </div>

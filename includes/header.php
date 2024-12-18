@@ -146,7 +146,7 @@
                 <div class="auto-container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
                         </div>
                         <div class="menu-area clearfix">
                             <!--Mobile Navigation Toggler-->
@@ -177,7 +177,7 @@
                             </nav>
                         </div>
                         <div class="btn-box">
-                            <a href="contact-us.php" class="theme-btn theme-btn-one">Contact Us<i class="icon-4"></i></a>
+                            <a href="contact-us.php" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -196,7 +196,7 @@
                             </nav>
                         </div>
                         <div class="btn-box">
-                            <a href="contact-us.php" class="theme-btn theme-btn-one">Contact Us<i class="icon-4"></i></a>
+                            <a href="contact-us.php" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -210,23 +210,23 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-transparent-logo.png" width="142px" height="80px" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/mobile-transparent-logo.png" width="142px" height="80px" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
-                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                        <li>United Arab Emirates</li>
+                        <li><a href="tel:+(971) 55 771 1428">+(971) 55 771 1428</a></li>
+                        <li><a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></li>
                     </ul>
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
+                        <!-- <li><a href="index.html"><span class="fab fa-twitter"></span></a></li> -->
+                        <li><a href="https://www.facebook.com/profile.php?id=61568643944205"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="https://www.tiktok.com/@sandscape_architects"><span class="fab fa-tiktok"></span></a></li>
+                        <li><a href="https://www.instagram.com/SANDSCAPE_ARCHITECTS"><span class="fab fa-instagram"></span></a></li>
+                        <!-- <li><a href="index.html"><span class="fab fa-youtube"></span></a></li> -->
                     </ul>
                 </div>
             </nav>

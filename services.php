@@ -31,8 +31,8 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-2.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Landscape Design & Planning</a></h4>
-                        <p class="p_relative d_block mb_20 font_family_poppins">Custom landscape designs tailored to client needs. Site analysis, conceptual designs, and 3D visualizations for presentations.</p>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Design & Planning</a></h4>
+                        <p class="p_relative d_block mb_20 font_family_poppins">Custom landscape designs tailored to client needs. Site analysis, conceptual designs, and 3D visualizations.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
                         </div>
@@ -150,7 +150,7 @@ include 'includes/header.php';
                             <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-123.png" alt=""></div>
                             <div class="icon-shape hero-shape-four p_absolute w_90 h_70 tran_5"></div>
                         </div>
-                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Landscape Renovation & Restoration</a></h4>
+                        <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Renovation & Restoration</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Revamping outdated landscapes. Restoring historical gardens. Updating designs to modern styles or sustainability standards.</p>
                         <div class="link p_relative d_block">
                             <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>

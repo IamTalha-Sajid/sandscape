@@ -9,7 +9,7 @@ include 'includes/header.php';
         <div class="content-box">
             <h1 class="d_block fs_60 lh_70 fw_bold mb_10">About</h1>
             <!-- <ul class="bread-crumb p_relative d_block mb_8 clearfix">
-                <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20"><a href="index.html">Home</a></li>
+                <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20"><a href="index.php">Home</a></li>
                 <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20">Pages</li>
                 <li class="current p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter">Service Style 1</li>
             </ul> -->
@@ -224,14 +224,14 @@ include 'includes/header.php';
                         <div class="image-box p_relative d_block b_radius_10">
                             <figure class="image p_relative d_block"><img src="assets/images/team/team-5.jpg" alt=""></figure>
                             <ul class="social-links-two">
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-facebook-f"></i></a></li>
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-twitter"></i></a></li>
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-facebook-f"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-twitter"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                         <div class="lower-content p_relative d_block ml_40 mr_40">
                             <div class="inner p_relative d_block b_radius_10 pt_20 pr_30 pb_25 pl_30 b_shadow_6">
-                                <h4 class="p_relative d_iblock fs_20 lh_30"><a href="team-details.html">Roger Jones</a></h4>
+                                <h4 class="p_relative d_iblock fs_20 lh_30"><a href="about-us.php">Roger Jones</a></h4>
                                 <span class="designation fs_16 p_relative d_block font_family_poppins">Designer</span>
                             </div>
                         </div>
@@ -244,14 +244,14 @@ include 'includes/header.php';
                         <div class="image-box p_relative d_block b_radius_10">
                             <figure class="image p_relative d_block"><img src="assets/images/team/team-6.jpg" alt=""></figure>
                             <ul class="social-links-two">
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-facebook-f"></i></a></li>
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-twitter"></i></a></li>
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-facebook-f"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-twitter"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                         <div class="lower-content p_relative d_block ml_40 mr_40">
                             <div class="inner p_relative d_block b_radius_10 pt_20 pr_30 pb_25 pl_30 b_shadow_6">
-                                <h4 class="p_relative d_iblock fs_20 lh_30"><a href="team-details.html">Ann Dowson</a></h4>
+                                <h4 class="p_relative d_iblock fs_20 lh_30"><a href="about-us.php">Ann Dowson</a></h4>
                                 <span class="designation fs_16 p_relative d_block font_family_poppins">Designer</span>
                             </div>
                         </div>
@@ -264,14 +264,14 @@ include 'includes/header.php';
                         <div class="image-box p_relative d_block b_radius_10">
                             <figure class="image p_relative d_block"><img src="assets/images/team/team-7.jpg" alt=""></figure>
                             <ul class="social-links-two">
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-facebook-f"></i></a></li>
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-twitter"></i></a></li>
-                                <li class="p_relative d_iblock"><a href="index-2.html" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-facebook-f"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-twitter"></i></a></li>
+                                <li class="p_relative d_iblock"><a href="index-2.php" class="w_40 h_40 lh_40 fs_17 centred b_radius_50"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                         <div class="lower-content p_relative d_block ml_40 mr_40">
                             <div class="inner p_relative d_block b_radius_10 pt_20 pr_30 pb_25 pl_30 b_shadow_6">
-                                <h4 class="p_relative d_iblock fs_20 lh_30"><a href="team-details.html">Nicolas Lawson</a></h4>
+                                <h4 class="p_relative d_iblock fs_20 lh_30"><a href="about-us.php">Nicolas Lawson</a></h4>
                                 <span class="designation fs_16 p_relative d_block font_family_poppins">Designer</span>
                             </div>
                         </div>

@@ -34,7 +34,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Design & Planning</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Custom landscape designs tailored to client needs. Site analysis, conceptual designs, and 3D visualizations.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Hardscaping</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Design of patios, walkways, and driveways. Outdoor kitchens, fire pits, and seating areas. Stone, brick, and concrete work.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Softscaping</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Plant selection and installation. Garden beds, lawn care, and turf management. Xeriscaping for low-water-use landscaping.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Lighting Design</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Landscape lighting design for outdoor spaces. LED lighting, path lights, and accent lighting. Seasonal lighting for events.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Water Features</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Design of fountains, ponds, and waterfalls. Upgrades for existing water features. Pool and spa landscaping services.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Sustainable Landscaping</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Eco-friendly and low-maintenance solutions. Rainwater harvesting, water-efficient design, and urban farming concepts.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Commercial Landscaping</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Landscaping for commercial properties. Outdoor space planning for public areas, parks, and playgrounds. Event setups.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -153,7 +153,7 @@ include 'includes/header.php';
                         <h4 class="p_relative d_block fs_20 lh_30 fw_sbold mb_25"><a href="#" class="d_iblock color_black">Renovation & Restoration</a></h4>
                         <p class="p_relative d_block mb_20 font_family_poppins">Revamping outdated landscapes. Restoring historical gardens. Updating designs to modern styles or sustainability standards.</p>
                         <div class="link p_relative d_block">
-                            <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a>
+                            <!-- <a href="#" class="p_relative d_iblock fs_15 fw_sbold font_family_inter color_black">Learn more<i class="icon-4"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -213,7 +213,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">Feedback and Revisions</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -261,7 +261,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">Client Review and Approval</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -285,7 +285,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">Client Feedback Integration</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -333,7 +333,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">Quality Assurance Checks</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -373,7 +373,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -399,7 +399,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -449,7 +449,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -475,7 +475,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -515,7 +515,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -565,7 +565,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -591,7 +591,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -641,7 +641,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -681,7 +681,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -707,7 +707,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -757,7 +757,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -783,7 +783,7 @@ include 'includes/header.php';
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25">100% Secure Services</li>
                                         </ul>
                                         <div class="btn-box">
-                                            <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a>
+                                            <!-- <a href="service-details.html" class="theme-btn theme-btn-five">Read More <i class="icon-4"></i></a> -->
                                         </div>
                                     </div>
                                 </div>

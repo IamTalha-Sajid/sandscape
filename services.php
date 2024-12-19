@@ -204,7 +204,7 @@ include 'includes/header.php';
                                             <h2 class="d_block fs_40 lh_50 fw_bold">Initial Draft</h2>
                                         </div>
                                         <div class="text p_relative d_block mb_25">
-                                            <p class="font_family_poppins">We begin with an initial draft to outline the project scope and objectives, ensuring alignment with client expectations.</p>
+                                        <p class="font_family_poppins">We begin with an initial draft to outline the project scope and objectives, ensuring alignment with client expectations. This phase involves detailed discussions and brainstorming sessions to capture the client's vision accurately. We also conduct a thorough analysis of the site and its surroundings to identify potential challenges and opportunities. Our team collaborates closely with the client to refine the project goals and deliver a comprehensive draft that serves as a foundation for the subsequent stages.</p>
                                         </div>
                                         <ul class="list-style-one clearfix p_relative d_block mb_35">
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25 mb_13">Client Consultation</li>
@@ -253,8 +253,7 @@ include 'includes/header.php';
                                             <h2 class="d_block fs_40 lh_50 fw_bold">Initial 2D Drafts</h2>
                                         </div>
                                         <div class="text p_relative d_block mb_25">
-                                            <p class="font_family_poppins">Developing detailed 2D drafts to visualize the layout and design elements, providing a clear blueprint for the project.</p>
-                                        </div>
+                                        <p class="font_family_poppins">Developing detailed 2D drafts to visualize the layout and design elements, providing a clear blueprint for the project. These drafts include precise measurements and annotations to ensure accuracy during implementation. We incorporate feedback from the client to make necessary adjustments and enhancements. Our 2D drafts serve as a critical tool for communication between the design team and the client, facilitating a shared understanding of the project's direction and scope.</p>                                        </div>
                                         <ul class="list-style-one clearfix p_relative d_block mb_35">
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25 mb_13">Detailed Layouts</li>
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25 mb_13">Design Element Specification</li>
@@ -278,8 +277,7 @@ include 'includes/header.php';
                                             <h2 class="d_block fs_40 lh_50 fw_bold">3D Modelling & Visualization</h2>
                                         </div>
                                         <div class="text p_relative d_block mb_25">
-                                            <p class="font_family_poppins">Creating 3D models and visualizations to provide a realistic view of the project, enhancing understanding and engagement.</p>
-                                        </div>
+                                        <p class="font_family_poppins">Creating 3D models and visualizations to provide a realistic view of the project, enhancing understanding and engagement. These models allow clients to explore the design from various angles and perspectives, offering a virtual walkthrough of the proposed space. We utilize advanced software to render high-quality images that capture the essence of the design. This stage is crucial for identifying potential design flaws and making informed decisions before construction begins.</p>                                        </div>
                                         <ul class="list-style-one clearfix p_relative d_block mb_35">
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25 mb_13">3D Model Creation</li>
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25 mb_13">Realistic Visualizations</li>
@@ -327,8 +325,7 @@ include 'includes/header.php';
                                             <h2 class="d_block fs_40 lh_50 fw_bold">Technical & Detailed Drawing</h2>
                                         </div>
                                         <div class="text p_relative d_block mb_25">
-                                            <p class="font_family_poppins">Finalizing technical and detailed drawings to guide the construction and implementation phases with precision.</p>
-                                        </div>
+                                        <p class="font_family_poppins">Finalizing technical and detailed drawings to guide the construction and implementation phases with precision. These drawings include comprehensive specifications for materials, dimensions, and construction techniques. We ensure that all aspects of the design are meticulously documented to prevent any discrepancies during execution. Our team conducts rigorous quality checks to verify the accuracy and completeness of the drawings, providing a reliable reference for contractors and builders.</p>                                        </div>
                                         <ul class="list-style-one clearfix p_relative d_block mb_35">
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25 mb_13">Technical Specifications</li>
                                             <li class="p_relative d_block fs_16 lh_25 fw_medium pull-left font_family_inter pl_25 mb_13">Detailed Construction Plans</li>

@@ -951,7 +951,7 @@ include 'includes/header.php';
 
 <!-- cta-one -->
 <section class="cta-one p_relative pt_130 pb_140 centred mb_100">
-    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/cta-bg.jpg);"></div>
+    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/cta-bg.png);"></div>
     <div class="shape">
         <div class="shape-1 hero-shape-three p_absolute z_1"></div>
         <div class="shape-2 p_absolute l_0 b_0 z_1" style="background-image: url(assets/images/shape/shape-26.png);"></div>

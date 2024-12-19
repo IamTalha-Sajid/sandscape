@@ -4,7 +4,7 @@ include 'includes/header.php';
 
 <!-- Page Title -->
 <section class="page-title p_relative centred">
-    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title.jpg);"></div>
+    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title-service.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1 class="d_block fs_60 lh_70 fw_bold mb_10">Services</h1>
@@ -316,7 +316,7 @@ include 'includes/header.php';
                                             <div class="shape-5 p_absolute b_20 float-bob-y" style="background-image: url(assets/images/shape/shape-194.png);"></div>
                                             <div class="shape-6 p_absolute w_170 h_170 bg-color-1 b_radius_50"></div>
                                         </div>
-                                        <figure class="image p_relative d_block b_radius_10"><img src="assets/images/service/service-38.jpg" alt=""></figure>
+                                        <figure class="image p_relative d_block b_radius_10"><img src="assets/images/service/service-38.png" alt=""></figure>
                                     </div>
                                 </div>
                             </div>

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <title>Atrix - HTML 5 Template Preview</title>
+    <title>Sandscape Architects</title>
 
     <!-- Fav Icon -->
     <link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon">
@@ -61,23 +61,7 @@
                             <span data-text-preloader="d" class="letters-loading">
                                 d
                             </span>
-                            <span data-text-preloaassets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assets
-assetsder="s" class="letters-loading">
+                            <span data-text-preloader="s" class="letters-loading">
                                 s
                             </span>
                             <span data-text-preloader="c" class="letters-loading">
@@ -162,7 +146,7 @@ assetsder="s" class="letters-loading">
                 <div class="auto-container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index.php"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
+                            <figure class="logo"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
                         </div>
                         <div class="menu-area clearfix">
                             <!--Mobile Navigation Toggler-->
@@ -174,26 +158,26 @@ assetsder="s" class="letters-loading">
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix home-menu">
-                                        <li class="dropdown"><a href="index.php">Home</a>
+                                        <li class="dropdown"><a href="index.html">Home</a>
                                         </li>
-                                        <li class="dropdown"><a href="about-us.php">About Us</a>
+                                        <li class="dropdown"><a href="about-us.html">About Us</a>
                                         </li>
-                                        <li class="dropdown"><a href="services.php">Services</a>
+                                        <li class="dropdown"><a href="services.html">Services</a>
                                         </li>
-                                        <li class="dropdown"><a href="landscape-design.php">Landscape Design</a>
+                                        <li class="dropdown"><a href="landscape-design.html">Landscape Design</a>
                                         </li>
-                                        <li class="dropdown"><a href="swimming-pool.php">Swimming Pool</a>
+                                        <li class="dropdown"><a href="swimming-pool.html">Swimming Pool</a>
                                         </li>
-                                        <li class="dropdown"><a href="portfolio.php">Portfolio</a>
+                                        <li class="dropdown"><a href="portfolio.html">Portfolio</a>
                                         </li>
-                                        <li class="dropdown"><a href="careers.php">Careers</a>
+                                        <li class="dropdown"><a href="careers.html">Careers</a>
                                         </li>
                                     </ul>
                                 </div>
                             </nav>
                         </div>
                         <div class="btn-box">
-                            <a href="contact-us.php" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
+                            <a href="contact-us.html" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -204,7 +188,7 @@ assetsder="s" class="letters-loading">
                 <div class="auto-container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index.php"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
+                            <figure class="logo"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
                         </div>
                         <div class="menu-area clearfix">
                             <nav class="main-menu clearfix">
@@ -212,7 +196,7 @@ assetsder="s" class="letters-loading">
                             </nav>
                         </div>
                         <div class="btn-box">
-                            <a href="contact-us.php" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
+                            <a href="contact-us.html" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
                         </div>
                     </div>
                 </div>
@@ -226,7 +210,7 @@ assetsder="s" class="letters-loading">
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/mobile-transparent-logo.png" width="142px" height="80px" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-transparent-logo.png" width="142px" height="80px" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>

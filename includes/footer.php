@@ -49,10 +49,10 @@
                         </div>
                         <div class="widget-content">
                             <ul class="links-list clearfix">
-                                <li><a href="index.php">Home</a></li>
-                                <li><a href="about-us.php">About Us</a></li>
-                                <li><a href="careers.php">Careers</a></li>
-                                <li><a href="contact-us.php">Contact Us</a></li>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="about-us.html">About Us</a></li>
+                                <li><a href="careers.html">Careers</a></li>
+                                <li><a href="contact-us.html">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -64,10 +64,10 @@
                         </div>
                         <div class="widget-content">
                             <ul class="links-list clearfix">
-                                <li><a href="services.php">Services</a></li>
-                                <li><a href="portfolio.php">Portfolio</a></li>
-                                <li><a href="landscape-design.php">Landscape Design</a></li>
-                                <li><a href="swimming-pool.php">Swimming Pool</a></li>
+                                <li><a href="services.html">Services</a></li>
+                                <li><a href="portfolio.html">Portfolio</a></li>
+                                <li><a href="landscape-design.html">Landscape Design</a></li>
+                                <li><a href="swimming-pool.html">Swimming Pool</a></li>
                             </ul>
                         </div>
                     </div>

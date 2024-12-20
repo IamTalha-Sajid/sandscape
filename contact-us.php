@@ -1,110 +1,490 @@
-<?php
-include 'includes/header.php';
-?>
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- Page Title -->
-<section class="page-title p_relative centred">
-    <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title.jpg);"></div>
-    <div class="auto-container">
-        <div class="content-box">
-            <h1 class="d_block fs_60 lh_70 fw_bold mb_10">Contact Us</h1>
-            <!-- <ul class="bread-crumb p_relative d_block mb_8 clearfix">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <title>Sandscape Architects</title>
+
+    <!-- Fav Icon -->
+    <link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- Stylesheets -->
+    <link href="../assets/css/font-awesome-all.css" rel="stylesheet">
+    <link href="../assets/css/flaticon.css" rel="stylesheet">
+    <link href="../assets/css/owl.css" rel="stylesheet">
+    <link href="../assets/css/bootstrap.css" rel="stylesheet">
+    <link href="../assets/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="../assets/css/animate.css" rel="stylesheet">
+    <link href="../assets/css/color.css" rel="stylesheet">
+    <link href="../assets/css/global.css" rel="stylesheet">
+    <link href="../assets/css/elpath.css" rel="stylesheet">
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/responsive.css" rel="stylesheet">
+
+</head>
+
+
+<!-- page wrapper -->
+
+<body>
+
+    <div class="boxed_wrapper">
+
+
+        <!-- mouse-pointer -->
+        <div class="mouse-pointer" id="mouse-pointer">
+            <div class="icon"><i class="far fa-angle-left"></i><i class="far fa-angle-right"></i></div>
+        </div>
+        <!-- mouse-pointer end -->
+
+
+        <!-- preloader -->
+        <div class="loader-wrap">
+            <div class="preloader">
+                <div class="preloader-close">x</div>
+                <div id="handle-preloader" class="handle-preloader">
+                    <div class="animation-preloader">
+                        <div class="spinner"></div>
+                        <div class="txt-loading">
+                            <span data-text-preloader="s" class="letters-loading">
+                                s
+                            </span>
+                            <span data-text-preloader="a" class="letters-loading">
+                                a
+                            </span>
+                            <span data-text-preloader="n" class="letters-loading">
+                                n
+                            </span>
+                            <span data-text-preloader="d" class="letters-loading">
+                                d
+                            </span>
+                            <span data-text-preloader="s" class="letters-loading">
+                                s
+                            </span>
+                            <span data-text-preloader="c" class="letters-loading">
+                                c
+                            </span>
+                            <span data-text-preloader="a" class="letters-loading">
+                                a
+                            </span>
+                            <span data-text-preloader="p" class="letters-loading">
+                                p
+                            </span>
+                            <span data-text-preloader="e" class="letters-loading">
+                                e
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- preloader end -->
+
+
+        <!-- Search Popup
+        <div id="search-popup" class="search-popup">
+            <div class="popup-inner">
+                <div class="upper-box clearfix">
+                    <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
+                    <div class="close-search pull-right"><span class="icon-179"></span></div>
+                </div>
+                <div class="overlay-layer"></div>
+                <div class="auto-container">
+                    <div class="search-form">
+                        <form method="post" action="index.html">
+                            <div class="form-group">
+                                <fieldset>
+                                    <input type="search" class="form-control" name="search-input" value="" placeholder="Type your keyword and hit" required>
+                                    <button type="submit"><i class="icon-1"></i></button>
+                                </fieldset>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+
+        <!-- main header -->
+        <header class="main-header">
+            <!-- header-top-one -->
+            <div class="header-top-one p_relative d_block">
+                <div class="auto-container">
+                    <div class="top-inner clearfix p_relative">
+                        <div class="shape p_absolute t_0" style="background-image: url(assets/images/shape/shape-1.png);"></div>
+                        <div class="top-left pull-left">
+                            <ul class="social-links clearfix">
+                                <li class="p_relative d_iblock fs_16 float_left mr_25 lh_55">Follow Us:</li>
+                                <li class="p_relative d_iblock fs_16 float_left mr_25 lh_55"><a href="https://www.facebook.com/profile.php?id=61568643944205" class="p_relative d_iblock fs_16"><i class="fab fa-facebook-f"></i></a></li>
+                                <li class="p_relative d_iblock fs_16 float_left mr_25 lh_55"><a href="https://www.tiktok.com/@sandscape_architects" class="p_relative d_iblock fs_16"><i class="fab fa-tiktok"></i></a></li>
+                                <li class="p_relative d_iblock fs_16 float_left mr_25 lh_55"><a href="https://www.instagram.com/SANDSCAPE_ARCHITECTS" class="p_relative d_iblock fs_16"><i class="fab fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="top-right pull-right">
+                            <ul class="info clearfix">
+                                <!-- <li class="search-box-outer search-toggler p_relative d_iblock float_left mr_60 lh_55">
+                                    <i class="icon-1"></i>
+                                </li> -->
+                                <li class="p_relative d_iblock float_left mr_60 lh_55 pl_25 fs_16">
+                                    <i class="icon-2"></i>
+                                    <p>Call: <a href="tel:+(971) 55 771 1428">+(971) 55 771 1428</a></p>
+                                </li>
+                                <li class="p_relative d_iblock float_left lh_55 pl_25 fs_16">
+                                    <i class="icon-3"></i>
+                                    <p>Email: <a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- header-lower -->
+            <div class="header-lower">
+                <div class="auto-container">
+                    <div class="outer-box">
+                        <div class="logo-box">
+                            <figure class="logo"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
+                        </div>
+                        <div class="menu-area clearfix">
+                            <!--Mobile Navigation Toggler-->
+                            <div class="mobile-nav-toggler">
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light">
+                                <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+                                    <ul class="navigation clearfix home-menu">
+                                        <li class="dropdown"><a href="index.html">Home</a>
+                                        </li>
+                                        <li class="dropdown"><a href="about-us.html">About Us</a>
+                                        </li>
+                                        <li class="dropdown"><a href="services.html">Services</a>
+                                        </li>
+                                        <li class="dropdown"><a href="landscape-design.html">Landscape Design</a>
+                                        </li>
+                                        <li class="dropdown"><a href="swimming-pool.html">Swimming Pool</a>
+                                        </li>
+                                        <li class="dropdown"><a href="portfolio.html">Portfolio</a>
+                                        </li>
+                                        <li class="dropdown"><a href="careers.html">Careers</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                        <div class="btn-box">
+                            <a href="contact-us.html" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--sticky Header-->
+            <div class="sticky-header">
+                <div class="auto-container">
+                    <div class="outer-box">
+                        <div class="logo-box">
+                            <figure class="logo"><a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a></figure>
+                        </div>
+                        <div class="menu-area clearfix">
+                            <nav class="main-menu clearfix">
+                                <!--Keep This Empty / Menu will come through Javascript-->
+                            </nav>
+                        </div>
+                        <div class="btn-box">
+                            <a href="contact-us.html" class="theme-btn theme-btn-one" style="background: #edb773;">Contact Us<i class="icon-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><i class="fas fa-times"></i></div>
+
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-transparent-logo.png" width="142px" height="80px" alt="" title=""></a></div>
+                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+                <div class="contact-info">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li>United Arab Emirates</li>
+                        <li><a href="tel:+(971) 55 771 1428">+(971) 55 771 1428</a></li>
+                        <li><a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></li>
+                    </ul>
+                </div>
+                <div class="social-links">
+                    <ul class="clearfix">
+                        <!-- <li><a href="index.html"><span class="fab fa-twitter"></span></a></li> -->
+                        <li><a href="https://www.facebook.com/profile.php?id=61568643944205"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="https://www.tiktok.com/@sandscape_architects"><span class="fab fa-tiktok"></span></a></li>
+                        <li><a href="https://www.instagram.com/SANDSCAPE_ARCHITECTS"><span class="fab fa-instagram"></span></a></li>
+                        <!-- <li><a href="index.html"><span class="fab fa-youtube"></span></a></li> -->
+                    </ul>
+                </div>
+            </nav>
+        </div><!-- End Mobile Menu -->
+        <!-- Page Title -->
+        <section class="page-title p_relative centred">
+            <div class="bg-layer p_absolute l_0 parallax_none parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title.jpg);"></div>
+            <div class="auto-container">
+                <div class="content-box">
+                    <h1 class="d_block fs_60 lh_70 fw_bold mb_10">Contact Us</h1>
+                    <!-- <ul class="bread-crumb p_relative d_block mb_8 clearfix">
                 <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20"><a href="index.html">Home</a></li>
                 <li class="p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter mr_20">Pages</li>
                 <li class="current p_relative d_iblock fs_16 lh_25 fw_sbold font_family_inter">Service Style 1</li>
             </ul> -->
-        </div>
-    </div>
-</section>
-<!-- End Page Title -->
+                </div>
+            </div>
+        </section>
+        <!-- End Page Title -->
 
-<!-- header-one -->
-<section class="testimonial-one p_relative pt_100 testimonial-page-3">
-    <div class="auto-container">
-        <div data-animation-box class="upper-box p_relative mb_60">
-            <div class="clearfix text-center">
-                <div class="col-lg-12 col-md-12 col-sm-12 title-column">
-                    <div class="sec-title-three p_relative d_block centred">
-                        <h1 class="d_block fs_40 fw_bold font_family_oxygen">"Transform your garden with Sandscape Architects.
-                       </h1>
-                    </div>
-                    <div class="sec-title-three p_relative d_block centred">
-                        <h1 class="d_block fs_40 fw_bold font_family_oxygen">
-                        Contact us today to bring your vision to life."</h1>
+        <!-- header-one -->
+        <section class="testimonial-one p_relative pt_100 testimonial-page-3">
+            <div class="auto-container">
+                <div data-animation-box class="upper-box p_relative mb_60">
+                    <div class="clearfix text-center">
+                        <div class="col-lg-12 col-md-12 col-sm-12 title-column">
+                            <div class="sec-title-three p_relative d_block centred">
+                                <h1 class="d_block fs_40 fw_bold font_family_oxygen">"Transform your garden with Sandscape Architects.
+                                </h1>
+                            </div>
+                            <div class="sec-title-three p_relative d_block centred">
+                                <h1 class="d_block fs_40 fw_bold font_family_oxygen">
+                                    Contact us today to bring your vision to life."</h1>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-<!-- project-two -->
+        </section>
+        <!-- project-two -->
 
-<!-- contact-seven end -->
-<section class="contact-seven p_relative pb_150 pt_80">
-    <div class="auto-container">
-        <div class="row clearfix">
-            <div class="col-lg-4 col-md-12 col-sm-12 info-column">
-                <div class="info-inner">
-                    <!-- <div class="sec-title p_relative d_block mb_30">
+        <!-- contact-seven end -->
+        <section class="contact-seven p_relative pb_150 pt_80">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-4 col-md-12 col-sm-12 info-column">
+                        <div class="info-inner">
+                            <!-- <div class="sec-title p_relative d_block mb_30">
                         <h3 class="d_block fs_30 lh_40 fw_bold mb_25">Get In Touch</h3>
                         <p class="font_family_poppins color_black">Give us a call or drop by anytime, we answer all enquiries within 24 hours.</p>
                     </div> -->
-                    <ul class="info-list clearfix">
-                        <li class="p_relative d_block pl_45 mb_80 mt_30">
-                            <div class="icon-box p_absolute l_0 t_2 d_iblock fs_30 z_1 tran_5">
-                                <div class="icon p_relative d_iblock"><i class="icon-180"></i></div>
-                                <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-133.png" alt=""></div>
-                            </div>
-                            <p class="font_family_inter color_black">United Arab Emirates</p>
-                        </li>
-                        <li class="p_relative d_block pl_45 mb_80">
-                            <div class="icon-box p_absolute l_0 t_0 d_iblock fs_30 z_1 tran_5">
-                                <div class="icon p_relative d_iblock"><i class="icon-181"></i></div>
-                                <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-134.png" alt=""></div>
-                            </div>
-                            <p class="font_family_inter color_black"><a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></p>
-                        </li>
-                        <li class="p_relative d_block pl_45 mb_30">
-                            <div class="icon-box p_absolute l_0 t_0 d_iblock fs_30 z_1 tran_5">
-                                <div class="icon p_relative d_iblock"><i class="icon-182"></i></div>
-                                <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-135.png" alt=""></div>
-                            </div>
-                            <p class="font_family_inter color_black"><a href="tel:971 55 771 1428">+(971) 55 771 1428</a></p>
-                        </li>
-                    </ul>
+                            <ul class="info-list clearfix">
+                                <li class="p_relative d_block pl_45 mb_80 mt_30">
+                                    <div class="icon-box p_absolute l_0 t_2 d_iblock fs_30 z_1 tran_5">
+                                        <div class="icon p_relative d_iblock"><i class="icon-180"></i></div>
+                                        <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-133.png" alt=""></div>
+                                    </div>
+                                    <p class="font_family_inter color_black">United Arab Emirates</p>
+                                </li>
+                                <li class="p_relative d_block pl_45 mb_80">
+                                    <div class="icon-box p_absolute l_0 t_0 d_iblock fs_30 z_1 tran_5">
+                                        <div class="icon p_relative d_iblock"><i class="icon-181"></i></div>
+                                        <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-134.png" alt=""></div>
+                                    </div>
+                                    <p class="font_family_inter color_black"><a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></p>
+                                </li>
+                                <li class="p_relative d_block pl_45 mb_30">
+                                    <div class="icon-box p_absolute l_0 t_0 d_iblock fs_30 z_1 tran_5">
+                                        <div class="icon p_relative d_iblock"><i class="icon-182"></i></div>
+                                        <div class="icon-img hidden-icon"><img src="assets/images/icons/hid-icon-135.png" alt=""></div>
+                                    </div>
+                                    <p class="font_family_inter color_black"><a href="tel:971 55 771 1428">+(971) 55 771 1428</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-12 col-sm-12 form-column">
+                        <div class="form-inner p_relative ml_40">
+                            <form method="post" action="sendemail.html" id="contact-form" novalidate="novalidate">
+                                <div class="row clearfix">
+                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                        <input type="text" name="username" placeholder="Your Name" required="" aria-required="true">
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                        <input type="email" name="email" placeholder="Email Address" required="" aria-required="true">
+                                    </div>
+                                    <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                                        <input type="text" name="phone" required="" placeholder="Phone Number" aria-required="true">
+                                    </div>
+                                    <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                                        <input type="text" name="subject" required="" placeholder="Subject" aria-required="true">
+                                    </div>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                        <textarea name="message" placeholder="Hello Iam Intrested in.."></textarea>
+                                    </div>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
+                                        <button class="theme-btn theme-btn-eight" type="submit" name="submit-form">Send Message <i class="icon-4"></i></button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-8 col-md-12 col-sm-12 form-column">
-                <div class="form-inner p_relative ml_40">
-                    <form method="post" action="sendemail.php" id="contact-form" novalidate="novalidate">
-                        <div class="row clearfix">
-                            <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                <input type="text" name="username" placeholder="Your Name" required="" aria-required="true">
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                <input type="email" name="email" placeholder="Email Address" required="" aria-required="true">
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                <input type="text" name="phone" required="" placeholder="Phone Number" aria-required="true">
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                <input type="text" name="subject" required="" placeholder="Subject" aria-required="true">
-                            </div>
-                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                <textarea name="message" placeholder="Hello Iam Intrested in.."></textarea>
-                            </div>
-                            <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
-                                <button class="theme-btn theme-btn-eight" type="submit" name="submit-form">Send Message <i class="icon-4"></i></button>
+        </section>
+        <!-- contact-seven end -->
+
+        <!-- footer-one -->
+        <footer class="footer-one">
+            <div class="pattern-layer">
+                <div class="pattern-1 hero-shape-three"></div>
+                <div class="pattern-2" style="background-image: url(assets/images/shape/shape-28.png);"></div>
+                <div class="pattern-3 hero-shape-three"></div>
+                <div class="pattern-4" style="background-image: url(assets/images/shape/shape-30.png);"></div>
+            </div>
+            <div class="footer-top">
+                <div class="auto-container">
+                    <div class="top-inner clearfix">
+                        <figure class="footer-logo pull-left">
+                            <a href="index.html"><img src="assets/images/transparent-logo.png" width="142px" height="80px" alt=""></a>
+                        </figure>
+                        <ul class="social-links pull-right clearfix">
+                            <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="index.html"><i class="fab fa-vimeo-v"></i></a></li>
+                            <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-widget-section">
+                <div class="auto-container">
+                    <div class="row clearfix">
+                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                            <div class="footer-widget about-widget wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                <div class="widget-title">
+                                    <h4>Sandscape Architects</h4>
+                                </div>
+                                <div class="text">
+                                    <p>Where your dream garden becomes reality. We design outdoor havens that blend beauty and sustainability, transforming your space into a breathtaking escape.</p>
+                                </div>
+                                <!-- <div class="subscribe-inner">
+                            <form action="contact.html" method="post" class="subscribe-form">
+                                <div class="form-group">
+                                    <input type="email" name="email" placeholder="Your email address" readonly="">
+                                    <button type="submit"><i class="icon-4"></i></button>
+                                </div>
+                            </form>
+                        </div> -->
                             </div>
                         </div>
-                    </form>
+                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                            <div class="footer-widget links-widget ml_80 wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
+                                <div class="widget-title">
+                                    <h4>Links</h4>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="links-list clearfix">
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="about-us.html">About Us</a></li>
+                                        <li><a href="careers.html">Careers</a></li>
+                                        <li><a href="contact-us.html">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
+                            <div class="footer-widget links-widget wow fadeInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
+                                <div class="widget-title">
+                                    <h4>Services</h4>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="links-list clearfix">
+                                        <li><a href="services.html">Services</a></li>
+                                        <li><a href="portfolio.html">Portfolio</a></li>
+                                        <li><a href="landscape-design.html">Landscape Design</a></li>
+                                        <li><a href="swimming-pool.html">Swimming Pool</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                            <div class="footer-widget contact-widget wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                                <div class="widget-title">
+                                    <h4>Contacts</h4>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="info-list clearfix">
+                                        <li>United Arab Emirates</li>
+                                        <li><a href="tel:+(971) 55 771 1428">+(971) 55 771 1428</a></li>
+                                        <li><a href="mailto:info@sandscapearchitects.com">info@sandscapearchitects.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="auto-container">
+                    <div class="bottom-inner clearfix">
+                        <div class="copyright pull-left">
+                            <p><a href="index.html">Sandscape Architects</a> &copy; <span id="year"></span> All Rights Reserved</p>
+                        </div>
+                        <ul class="footer-nav clearfix pull-right">
+                            <li>Develop By</li>
+                            <li><a href="https://byteliftsolutions.com/">Bytelift Solutions</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- footer-one end -->
+
+
+        <!--Scroll to top-->
+        <div class="scroll-to-top">
+            <div>
+                <div class="scroll-top-inner">
+                    <div class="scroll-bar">
+                        <div class="bar-inner"></div>
+                    </div>
+                    <div class="scroll-bar-text g_color">Go To Top</div>
                 </div>
             </div>
         </div>
+        <!-- Scroll to top end -->
+
+
     </div>
-</section>
-<!-- contact-seven end -->
- 
-<?php
-include 'includes/footer.php';
-?>
+
+
+    <!-- jequery plugins -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/scrollbar.js"></script>
+    <script src="assets/js/parallax.min.js"></script>
+    <script src="assets/js/circle-progress.js"></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/parallax-scroll.js"></script>
+
+    <!-- main-js -->
+    <script src="assets/js/script.js"></script>
+    <script>
+        const d = new Date();
+        const year = d.getFullYear();
+
+        document.getElementById("year").innerHTML = year;
+    </script>
+
+</body><!-- End of .page_wrapper -->
+
+</html>

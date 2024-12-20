@@ -1,0 +1,18 @@
+{
+    "functions": {
+      "api/*.php": {
+        "runtime": "vercel-php@0.7.2"
+      }
+    },
+    "routes": [
+      { "src": "/api/about-us", "dest": "/api/about-us.php" },
+      { "src": "/api/careers", "dest": "/api/careers.php" },
+      { "src": "/api/contact-us", "dest": "/api/contact-us.php" },
+      { "src": "/api/index", "dest": "/api/index.php" },
+      { "src": "/api/landscape-design", "dest": "/api/landscape-design.php" },
+      { "src": "/api/portfolio", "dest": "/api/portfolio.php" },
+      { "src": "/api/services", "dest": "/api/services.php" },
+      { "src": "/api/swimming-pool", "dest": "/api/swimming-pool.php" },
+      { "src": "/(.*)", "dest": "/api/index.php" }
+    ]
+  }

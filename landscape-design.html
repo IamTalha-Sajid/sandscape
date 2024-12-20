@@ -9,7 +9,7 @@
     <title>Sandscape Architects</title>
 
     <!-- Fav Icon -->
-    <link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../assets/images/favicon-5.ico" type="image/x-icon">
 
     <!-- Stylesheets -->
     <link href="../assets/css/font-awesome-all.css" rel="stylesheet">

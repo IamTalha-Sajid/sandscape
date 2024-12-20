@@ -1,5 +1,5 @@
 <?php
-include 'includes/header.php';
+include '../includes/header.php';
 ?>
 
 <!-- banner-section -->
@@ -1070,5 +1070,5 @@ include 'includes/header.php';
 <!-- news-one end -->
 
 <?php
-include 'includes/footer.php';
+include '../includes/footer.php';
 ?>

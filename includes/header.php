@@ -9,20 +9,20 @@
     <title>Atrix - HTML 5 Template Preview</title>
 
     <!-- Fav Icon -->
-    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon">
 
     <!-- Stylesheets -->
-    <link href="assets/css/font-awesome-all.css" rel="stylesheet">
-    <link href="assets/css/flaticon.css" rel="stylesheet">
-    <link href="assets/css/owl.css" rel="stylesheet">
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="assets/css/animate.css" rel="stylesheet">
-    <link href="assets/css/color.css" rel="stylesheet">
-    <link href="assets/css/global.css" rel="stylesheet">
-    <link href="assets/css/elpath.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/responsive.css" rel="stylesheet">
+    <link href="../assets/css/font-awesome-all.css" rel="stylesheet">
+    <link href="../assets/css/flaticon.css" rel="stylesheet">
+    <link href="../assets/css/owl.css" rel="stylesheet">
+    <link href="../assets/css/bootstrap.css" rel="stylesheet">
+    <link href="../assets/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="../assets/css/animate.css" rel="stylesheet">
+    <link href="../assets/css/color.css" rel="stylesheet">
+    <link href="../assets/css/global.css" rel="stylesheet">
+    <link href="../assets/css/elpath.css" rel="stylesheet">
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/responsive.css" rel="stylesheet">
 
 </head>
 
@@ -61,7 +61,23 @@
                             <span data-text-preloader="d" class="letters-loading">
                                 d
                             </span>
-                            <span data-text-preloader="s" class="letters-loading">
+                            <span data-text-preloaassets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assets
+assetsder="s" class="letters-loading">
                                 s
                             </span>
                             <span data-text-preloader="c" class="letters-loading">

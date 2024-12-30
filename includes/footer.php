@@ -30,7 +30,7 @@
                             <h4>Sandscape Architects</h4>
                         </div>
                         <div class="text">
-                            <p>Where your dream garden becomes reality. We design outdoor havens that blend beauty and sustainability, transforming your space into a breathtaking escape.</p>
+                            <p>Sculpturing The Sand Into Serenity</p>
                         </div>
                         <!-- <div class="subscribe-inner">
                             <form action="contact.html" method="post" class="subscribe-form">

@@ -67,7 +67,7 @@
   height: 100%;
   top: 0px;
   right: 0px;
-  opacity: 0.7;
+  opacity: 40%;
   background: #627057;
   mix-blend-mode: multiply;
   z-index: 1;
@@ -81,7 +81,7 @@
   top: 0px;
   right: 0px;
   background: #627057;
-  opacity: 0.7;
+  opacity: 40%;
 }
 
 .banner-carousel .slide-item .image-layer{
@@ -11085,7 +11085,7 @@ div[class^="bubble-"] {
   height: 100%;
   left: 0px;
   top: 0px;
-  opacity: 0.7;
+  opacity: 40%;
 }
 
 .page-title .content-box h1{

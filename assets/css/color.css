@@ -224,7 +224,8 @@
 }
 
 .news-two .news-block-one .inner-box .image {
-	background: -webkit-linear-gradient(0deg, #41a0ea, #f18e95 100%);
+	background: #fff;
+	opacity: 100%;
 }
 
 .news-two .news-block-one .inner-box .post-info li a:hover {

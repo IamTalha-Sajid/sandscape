@@ -159,7 +159,7 @@ a {
 }
 
 a:hover {
-  color: #edb773;
+  color: #edb773 !important;
   text-decoration: underline;
 }
 

@@ -1965,6 +1965,9 @@ div#mCSB_1_container{
   /* height: 80px; */
 }
 
+.content-box h4 a:hover {
+  color: #edb773;
+}
 
 /** header-style-two **/
 
